@@ -1,0 +1,9 @@
+.pokemonCardsList{
+    width: 80vw;
+    min-height: 0vh;
+    background-color: white;
+}
+
+.searchBar__button{
+    background-color: rgb(255, 255, 255);
+}
